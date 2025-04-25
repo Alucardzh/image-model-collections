@@ -18,18 +18,18 @@
    2. [Q8 LTX-Video](https://github.com/KONAKONA666/LTX-Video.git) forked from [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)  
    3. [TeaCache4LTX-Video](https://github.com/ali-vilab/TeaCache/tree/main/TeaCache4LTX-Video)  
 
-4. [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2)
+4. [SkyReels V2](https://github.com/SkyworkAI/SkyReels-V2)  
 ***SkyReels V2*** 代表了第一个采用 AutoRegressive Diffusion-Forcing 架构的开源视频生成模型，在公开可用的模型中实现了 SOTA 性能。
 
-5. [SkyReels A2](https://github.com/SkyworkAI/SkyReels-A2)
+5. [SkyReels A2](https://github.com/SkyworkAI/SkyReels-A2)  
 ***SkyReels A2*** 一个可控的视频生成框架，能够根据文本提示将任意视觉元素（例如，角色、物体、背景）组装成合成视频，同时与每个元素的参考图像保持严格一致性。
    
-6. [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)
+6. [HunyuanVideo](https://github.com/Tencent/HunyuanVideo)  
 ***HunyuanVideo*** 腾讯出品，一种新颖的开源视频基础模型，它在视频生成方面的性能可与领先的闭源模型相媲美，甚至优于领先的闭源模型。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/hunyuan_video/)  
 ***ComfyUI插件***：  
    1. [ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)
 
-7. [Wan2.1](https://github.com/Wan-Video/Wan2.1)
+7. [Wan2.1](https://github.com/Wan-Video/Wan2.1)  
 ***Wan2.1*** 阿里出品。一套全面而开放的视频基础模型，它突破了视频生成的界限。支持消费级 GPU：T2V-1.3B 型号仅需 8.19 GB VRAM，几乎兼容所有消费级 GPU。它可以在大约 5 分钟内在 RTX 4090 上生成 4 秒的 4P 视频（无需量化等优化技术）。它的性能甚至可以与一些闭源模型相媲美。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/wan/)  
 ***ComfyUI插件***：  
    1. [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
