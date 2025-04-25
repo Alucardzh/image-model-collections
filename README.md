@@ -30,7 +30,7 @@
    1. [ComfyUI-HunyuanVideoWrapper](https://github.com/kijai/ComfyUI-HunyuanVideoWrapper)
 
 7. [Wan2.1](https://github.com/Wan-Video/Wan2.1)  
-***Wan2.1*** 阿里出品。一套全面而开放的视频基础模型，它突破了视频生成的界限。支持消费级 GPU：T2V-1.3B 型号仅需 8.19 GB VRAM，几乎兼容所有消费级 GPU。它可以在大约 5 分钟内在 RTX 4090 上生成 4 秒的 4P 视频（无需量化等优化技术）。它的性能甚至可以与一些闭源模型相媲美。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/wan/)  
+***Wan2.1*** 阿里出品。一套全面而开放的视频基础模型，它突破了视频生成的界限。支持消费级 GPU：T2V-1.3B 型号仅需 8.19 GB VRAM，几乎兼容所有消费级 GPU。它可以在大约 *5 分钟*内在 *RTX 4090* 上生成 *4 秒*的 *480P* 视频（无需量化等优化技术）。它的性能甚至可以与一些闭源模型相媲美。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/wan/)  
 ***ComfyUI插件***：  
    1. [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
 
