@@ -33,3 +33,9 @@
 ***Wan2.1*** 阿里出品。一套全面而开放的视频基础模型，它突破了视频生成的界限。支持消费级 GPU：T2V-1.3B 型号仅需 8.19 GB VRAM，几乎兼容所有消费级 GPU。它可以在大约 5 分钟内在 RTX 4090 上生成 4 秒的 4P 视频（无需量化等优化技术）。它的性能甚至可以与一些闭源模型相媲美。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/wan/)  
 ***ComfyUI插件***：  
    1. [ComfyUI-WanVideoWrapper](https://github.com/kijai/ComfyUI-WanVideoWrapper)
+
+## 3D模型
+1. [Hunyuan3D-2](https://github.com/Tencent/Hunyuan3D-2)  
+***Hunyuan3D-2*** 腾讯出品，一款先进的大规模 3D 资产创作系统，它可以用于生成带有高分辨率纹理贴图的高保真度3D模型。该系统包含两个基础组件：一个大规模几何生成模型 — 混元 3D-DiT，以及一个大规模纹理生成模型 — 混元 3D-Paint。 几何生成模型基于流扩散的扩散模型构建，旨在生成与给定条件图像精确匹配的几何模型，为下游应用奠定坚实基础。 纹理生成模型得益于强大的几何和扩散模型先验知识，能够为AI生成的或手工制作的网格模型生成高分辨率且生动逼真的纹理贴图。它使专业用户和业余爱好者都能高效地对3D模型进行操作，甚至制作动画。 混元 3D 2.0 在几何细节、条件匹配、纹理质量等方面均优于以往的最先进的开源以及闭源模型。  [ComfyUI官方支持](https://blog.comfy.org/p/hunyuan3d-20-and-muitiview-native)  
+***ComfyUI插件***：  
+   1. [ComfyUI-Hunyuan3DWrapper](https://github.com/kijai/ComfyUI-Hunyuan3DWrapper)  
