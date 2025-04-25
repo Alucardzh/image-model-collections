@@ -12,3 +12,9 @@
 ***FramePack*** 是一种 next-frame （next-frame-section） 预测神经网络结构，可逐步生成视频。它将输入上下文压缩为恒定长度，以便生成工作负载与视频长度无关。它甚至可以在笔记本电脑 GPU 上处理 13B 型号的大量帧。它可以使用更大的批量大小进行训练，类似于图像扩散训练的批量大小。视频扩散，但感觉像图像扩散。  
 ***ComfyUI插件***： [ComfyUI-FramePackWrapper](https://github.com/kijai/ComfyUI-FramePackWrapper.git)
    
+2. [LTX-Video](https://github.com/Lightricks/LTX-Video.git)
+***LTX*** 是第一个基于 DiT 的视频生成模型，可以实时生成高质量视频。 它可以生成 *30FPS* *1216×704*分辨率的视频，比观看它们更快。 该模型在各种视频的大规模数据集上进行训练，可以生成高分辨率视频 具有逼真和多样化的内容。该模型支持文本到图像、图像到视频、基于关键帧的动画、视频扩展（向前和向后）、视频到视频转换以及这些功能的任意组合。
+***ComfyUI插件***：
+   1. [ComfyUI-LTXVideo](https://github.com/Lightricks/ComfyUI-LTXVideo.git)
+   2. [Q8 LTX-Video](https://github.com/KONAKONA666/LTX-Video.git) forked from [Lightricks/LTX-Video](https://github.com/Lightricks/LTX-Video)
+   3. [TeaCache4LTX-Video](https://github.com/ali-vilab/TeaCache/tree/main/TeaCache4LTX-Video)
