@@ -5,7 +5,7 @@
 ## 生图模型
 1. [Flux.1](https://bfl.ai/announcements/24-08-01-bfl)
    ***Flux.1*** 是由Black Forest Labs发布的模型套件，这些模型推动了文本到图像合成的前沿。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/flux/)  
-     ***FLUX.1 pro***：FLUX.1 的精华，提供最先进的性能图像生成，具有顶级的提示跟随、视觉质量、图像细节和输出多样性。通过我们的 API 注册 FLUX.1 [pro] 访问权限。FLUX.1 [pro] 也可通过 Replicate 和 fal.ai 获得。  
+     ***FLUX.1 pro***：FLUX.1 的精华，提供最先进的性能图像生成，具有顶级的提示跟随、视觉质量、图像细节和输出多样性。通过 API 注册 FLUX.1 [pro] 访问权限。FLUX.1 [pro] 也可通过 Replicate 和 fal.ai 获得。  
      ***FLUX.1 dev***：FLUX.1 [dev] 是一种用于非商业应用的开放轻量级、指导性提炼模型。直接从 FLUX.1 [pro] 中提炼出来，FLUX.1 [dev] 获得了类似的质量和及时依从性能力，同时比相同尺寸的标准型号更高效。FLUX.1 [dev] 权重在 HuggingFace 上提供，可以直接在 Replicate 或 fal.ai 上试用。  
      ***FLUX.1 schnell***：是为本地开发和个人使用量身定制的。FLUX.1 [schnell] 在 Apache2.0 许可下公开提供。  
 
