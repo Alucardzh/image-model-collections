@@ -2,6 +2,13 @@
 收集视频图片模型  
 顺序皆非排名  
 
+## 生图模型
+1. [Flux.1](https://bfl.ai/announcements/24-08-01-bfl)
+   ***Flux.1*** 是由Black Forest Labs发布的模型套件，这些模型推动了文本到图像合成的前沿。[ComfyUI官方支持](https://comfyanonymous.github.io/ComfyUI_examples/flux/)  
+     ***FLUX.1 pro***：FLUX.1 的精华，提供最先进的性能图像生成，具有顶级的提示跟随、视觉质量、图像细节和输出多样性。通过我们的 API 注册 FLUX.1 [pro] 访问权限。FLUX.1 [pro] 也可通过 Replicate 和 fal.ai 获得。  
+     ***FLUX.1 dev***：FLUX.1 [dev] 是一种用于非商业应用的开放轻量级、指导性提炼模型。直接从 FLUX.1 [pro] 中提炼出来，FLUX.1 [dev] 获得了类似的质量和及时依从性能力，同时比相同尺寸的标准型号更高效。FLUX.1 [dev] 权重在 HuggingFace 上提供，可以直接在 Replicate 或 fal.ai 上试用。  
+     ***FLUX.1 schnell***：是为本地开发和个人使用量身定制的。FLUX.1 [schnell] 在 Apache2.0 许可下公开提供。  
+
 ## 视频模型
 1. [MAGI-1](https://github.com/SandAI-org/MAGI-1.git)  
 ***MAGI-1***这是一个世界模型，它通过自回归预测一系列视频块来生成视频，定义为连续帧的固定长度片段。MAGI-1 经过训练，可以对随时间单调增加的每块噪声进行降噪，支持因果时间建模，并自然支持流式生成。它在以文本指令为条件的图像到视频 （I2V） 任务上实现了强大的性能，提供了高度的时间一致性和可扩展性，这可以通过多项算法创新和专用基础设施堆栈实现。MAGI-1 进一步支持通过分块提示进行可控生成，实现平滑的场景过渡、长视距合成和细粒度的文本驱动控制。我们相信 MAGI-1 为统一高保真视频生成与灵活的指令控制和实时部署提供了一个有前途的方向。  
